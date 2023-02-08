@@ -1,2 +1,2 @@
-# to_do_list
+# to do list
 web app with to do list
